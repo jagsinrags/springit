@@ -44,8 +44,8 @@ Used VS Code for this development
 
 ### Extensions
 
-Java Extension Pack
-Markdown Preview Github
+1. Java Extension Pack
+2. Markdown Preview Github
 by Matt Bierner
 
 

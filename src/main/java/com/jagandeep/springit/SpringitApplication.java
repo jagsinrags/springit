@@ -8,5 +8,7 @@ public class SpringitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringitApplication.class, args);
+		
+		System.out.println("jjjjjjjjxfgjjjjjjj");
 	}
 }
